@@ -3,10 +3,12 @@
 ## Install
 
 ```bash
+sudo aptitude install libsqlite3-dev # for ubuntu
+
 mkdir ./build
 cd ./build
 cmake ..
-make && make install
+make && sudo make install
 ```
 
 ## What
