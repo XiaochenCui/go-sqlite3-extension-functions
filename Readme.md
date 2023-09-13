@@ -36,7 +36,7 @@ func Main() {
 }
 ```
 
-Or use the code in [extension-functions.go](github.com/dinedal/go-sqlite3-extension-functions/go/blob/master/go/extension-functions.go) to create your own driver hook.
+Or use the code in [extension-functions.go](/go/extension-functions.go) to create your own driver hook.
 
 ## Full function list
 
