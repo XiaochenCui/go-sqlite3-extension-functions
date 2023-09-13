@@ -28,7 +28,7 @@ import (
 	"database/sql"
 
 	sqlite3 "github.com/mattn/go-sqlite3"
-	"github.com/dinedal/go-sqlite3-extension-functions/go"
+	"github.com/XiaochenCui/go-sqlite3-extension-functions/go"
 )
 
 func Main() {
